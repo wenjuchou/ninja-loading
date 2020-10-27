@@ -1,4 +1,4 @@
 # NinjaSprite
 One sprite movement
 
-https://wenjuchou.github.io/ninjasprite/
+https://wenjuchou.github.io/ninja-loading/
